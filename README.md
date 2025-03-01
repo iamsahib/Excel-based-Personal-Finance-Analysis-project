@@ -41,7 +41,15 @@ CALCULATION
 
 
 
+#Recommendations
 
+High Expense Categories: Reduce spending on non-essential items like "Stuffs" and "Bean Bag".
+
+Low-value Transactions: Small expenses (like ₹10 for snacks) add up over time. Consider bulk purchases to save money.
+
+Education Fees: Since a large amount was spent on arrears and revaluation, better planning for fee payments could prevent unexpected expenses.
+
+Personal Transfers: Significant money was transferred to individuals (e.g., Kumara, Siva). It may help to track the purpose and necessity of these transactions.
 
 
 
