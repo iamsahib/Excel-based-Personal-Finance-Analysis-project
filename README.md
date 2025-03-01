@@ -16,9 +16,10 @@ CALCULATION
 ![image](https://github.com/user-attachments/assets/44c922ad-8d12-400b-92ab-bbf6ef31a561)
 
 3. Total Spending
+   
 ![image](https://github.com/user-attachments/assets/5175ab5b-79b6-4a70-ab14-d554a5e88106)
 
-4. Top 5 Sub - Category
+5. Top 5 Sub - Category
    
 ![image](https://github.com/user-attachments/assets/1da79d0c-9047-432a-af1c-b8fbca30be04)
 
