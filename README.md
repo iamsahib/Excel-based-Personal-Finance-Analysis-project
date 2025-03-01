@@ -5,7 +5,7 @@ Developed an Excel-based Personal Finance Analysis project to track and visualiz
 
 ![image](https://github.com/user-attachments/assets/87174597-edaf-47ed-8e55-e785a4de400a)
 
-CALCULATION 
+CALCULATION AND ANALYSIS
 
 1. Category wise spending
    
