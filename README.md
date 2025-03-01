@@ -8,7 +8,7 @@ Developed an Excel-based Personal Finance Analysis project to track and visualiz
 CALCULATION 
 
 1. Category wise spending
-   ![image](https://github.com/user-attachments/assets/49f64d2e-f3e1-4385-afcf-ff60bbede795)
+![image](https://github.com/user-attachments/assets/49f64d2e-f3e1-4385-afcf-ff60bbede795)
 
 2. Income Vs Expense month wise spending		
 ![image](https://github.com/user-attachments/assets/44c922ad-8d12-400b-92ab-bbf6ef31a561)
