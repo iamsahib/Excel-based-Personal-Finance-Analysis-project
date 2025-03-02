@@ -41,7 +41,7 @@ CALCULATION AND ANALYSIS
 
 
 
-#Recommendations
+**Recommendations**
 
 High Expense Categories: Reduce spending on non-essential items like "Stuffs" and "Bean Bag".
 
